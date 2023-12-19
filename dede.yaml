@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: devops-spring-deployment
+spec:
+  selector:
+    matchLabels:
+      app: devops-spring-app
+  replicas: 3  # 고가용성을 위해 레플리카 수를 3으로 증가
+  template:
+    metadata:
+      labels:
+        app: devops-spring-app
+    spec:
+      containers:
+        - name: core
+          image: zxcvb5434/devopstest:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+              protocol: TCP
+          resources:
+            requests:
+              cpu: 500m
+              memory: 1000Mi
+          env:  # 환경 변수 추가
+            - name: SPRING_PROFILES_ACTIVE
+              value: "production"
+            - name: DATABASE_URL
+              value: "jdbc:mysql://db.example.com:3306/mydatabase"
