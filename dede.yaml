@@ -6,7 +6,8 @@ spec:
   selector:
     matchLabels:
       app: devops-spring-app
-  replicas: 3  # 고가용성을 위해 레플리카 수를 3으로 증가
+  # 고가용성을 위해 레플리카 수를 3으로 증가
+  replicas: 3
   template:
     metadata:
       labels:
@@ -14,16 +15,18 @@ spec:
     spec:
       containers:
         - name: core
+          # 도커 허브에서 이미지 호출
           image: zxcvb5434/devopstest:latest
           imagePullPolicy: Always
           ports:
-            - containerPort: 8080
+            - containerPort: 8080 # 컨테이너 포트 할당
               protocol: TCP
           resources:
             requests:
               cpu: 500m
               memory: 1000Mi
-          env:  # 환경 변수 추가
+          # 환경 변수 추가
+          env: 
             - name: SPRING_PROFILES_ACTIVE
               value: "production"
             - name: DATABASE_URL
