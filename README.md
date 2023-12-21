@@ -31,8 +31,8 @@
 <h2 align="left"> Network </h2>
     <span><img src="https://github.com/mitsumi73/kubectl/blob/main/network_layer3_local.svg"/></span>&nbsp;
 <h2 align="left"> Minikube & Kubectl </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/minikube.png" height="360"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-21%20%EC%98%A4%EC%A0%84%2010.50.33.png" height="360"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/minikube.png" height="300"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-21%20%EC%98%A4%EC%A0%84%2010.50.33.png" height="300"/></span>&nbsp;
 <h2 align="left"> Web서비스 Deployment </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/2.png" height="400"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Image_2023-12-21-22-43-09.jpeg" height="400"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/2.png" height="300"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Image_2023-12-21-22-43-09.jpeg" height="320"/></span>&nbsp;
