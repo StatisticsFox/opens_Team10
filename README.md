@@ -23,11 +23,16 @@
 - 웹 서비스의 입력 내용이 GITHUB / DB 등에 저장되어야 함
 - 웹 서비스는 팀별로 원하거나 구현했던 서비스 적용
 - 물리적 워커노드 2개 이상이며, 하나의 Windows PC에 WSL과 버추얼 박스로 구성 가능
-
+  
+<h2 align="left"> 프로젝트 구성도  </h2>
     <span><img src="https://github.com/mitsumi73/kubectl/blob/main/img.png"/></span>&nbsp;
+<h2 align="left"> Service </h2>
     <span><img src="https://github.com/mitsumi73/kubectl/blob/main/kubernetes_external_traffic_policy.svg"/></span>&nbsp;
+<h2 align="left"> Network </h2>
     <span><img src="https://github.com/mitsumi73/kubectl/blob/main/network_layer3_local.svg"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/minikube.png" height="400"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-21%20%EC%98%A4%EC%A0%84%2010.50.33.png" height="400"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/2.png" height="450"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Image_2023-12-21-22-43-09.jpeg" height="500"/></span>&nbsp;
+<h2 align="left"> Minikube & Kubectl </h2>
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/minikube.png" height="360"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-21%20%EC%98%A4%EC%A0%84%2010.50.33.png" height="360"/></span>&nbsp;
+<h2 align="left"> Web서비스 Deployment </h2>
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/2.png" height="400"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Image_2023-12-21-22-43-09.jpeg" height="400"/></span>&nbsp;
