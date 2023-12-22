@@ -24,11 +24,7 @@
 - 물리적 워커노드 2개 이상이며, 하나의 Windows PC에 WSL과 버추얼 박스로 구성 가능
   
 <h2 align="left"> 프로젝트 구성도  </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/img.png"/></span>&nbsp;
-<h2 align="left"> Service </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/kubernetes_external_traffic_policy.svg"/></span>&nbsp;
-<h2 align="left"> Network </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/network_layer3_local.svg"/></span>&nbsp;
+    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Photo_2023-12-22-17-48-03.png"/></span>&nbsp;
 <h2 align="left"> Minikube & Kubectl </h2>
     <span><img src="https://github.com/mitsumi73/kubectl/blob/main/minikube.png" height="300"/></span>&nbsp;
     <span><img src="https://github.com/mitsumi73/kubectl/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-21%20%EC%98%A4%EC%A0%84%2010.50.33.png" height="300"/></span>&nbsp;
