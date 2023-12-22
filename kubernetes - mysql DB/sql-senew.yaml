@@ -1,0 +1,16 @@
+apiVersino: v1
+kind: Service
+metadata:
+  name: mysql
+  labels:
+    app: devops-spring-service
+spec:
+  type: NodePort
+  ports:
+    - port: 3306
+      protocol: TCP
+      targetPort: 3306
+      nodePort: 32001
+  selector:               
+    app: mysql
+​
