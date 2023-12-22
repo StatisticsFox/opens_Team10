@@ -13,7 +13,6 @@
     <span><img src="https://img.shields.io/badge/Windows 10-282C34?logo=windows10&logoColor=0078D6" alt="windows10 logo" title="windows10" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/Terminal-282C34?logo=windowsterminal&logoColor=4D4D4D" alt="windowsterminal" title="windowsterminal" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>&nbsp;
-    <span><img src="https://img.shields.io/badge/VirtualBox-282C34?logo=virtualbox&logoColor=183A61" alt="virtualbox logo" title="virtualbox" height="25" /></span>&nbsp;
   </div>
     
 ## What is Workflows?
