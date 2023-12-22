@@ -1,12 +1,8 @@
 # 참고문헌
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### Reference Documentation & Github
 
-* Official Gradle documentation(https://docs.gradle.org)
-* Spring Web Starter(https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/htmlsingle/#boot-features-developing-web-applications)
-* Thymeleaf(https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
-* Spring Data JPA(https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+
 
 ### Guides
 The following guides illustrate how to use some features concretely:
