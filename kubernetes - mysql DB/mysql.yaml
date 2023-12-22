@@ -1,34 +1,3 @@
-# mysql-deployment.yaml
-
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: mydb-mysql
-  namespace: default
-spec:
-  replicas: 1
-  selector:
-    matchLabels:
-      app: mydb-mysql
-  template:
-    metadata:
-      labels:
-        app: mydb-mysql
-    spec:
-      containers:
-      - name: mysql
-        image: mysql:latest
-        env:
-        - name: MYSQL_ROOT_PASSWORD
-          valueFrom:
-            secretKeyRef:
-              name: mydb-mysql
-              key: mysql-root-password
-        ports:
-        - containerPort: 3306
-          name: mysql
-
----
 # mysql-service.yaml
 
 apiVersion: v1
