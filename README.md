@@ -6,12 +6,10 @@
     <span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=EEEEEE" alt="Jenkins logo" title="Docker" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" alt="github logo" title="github" height="25" /></span>&nbsp;</div>
   <div align="center">
-    <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="ubuntu logo" title="ubuntu" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/Visual studio code-282C34?logo=visualstudiocode&logoColor=2496ED" alt="visualstudiocode logo" title="visualstudiocode" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/MacOs-282C34?logo=macos&logoColor=000000" alt="macos logo" title="macos" height="25" /></span>&nbsp;
-    <span><img src="https://img.shields.io/badge/Windows 10-282C34?logo=windows10&logoColor=0078D6" alt="windows10 logo" title="windows10" height="25" /></span>&nbsp;
-    <span><img src="https://img.shields.io/badge/Terminal-282C34?logo=windowsterminal&logoColor=4D4D4D" alt="windowsterminal" title="windowsterminal" height="25" /></span>&nbsp;
+    <span><img src="https://img.shields.io/badge/Windows 10-282C34?logo=windows11&logoColor=0078D6" alt="windows11 logo" title="windows11" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>&nbsp;
   </div>
     
