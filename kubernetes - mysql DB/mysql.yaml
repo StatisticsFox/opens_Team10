@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mysql
-        image: docker.io/bitnami/mysql:8.0.35-debian-11-r0
+        image: mysql:latest
         env:
         - name: MYSQL_ROOT_PASSWORD
           valueFrom:

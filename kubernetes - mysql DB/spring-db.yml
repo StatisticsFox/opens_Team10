@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: mysql-deployment
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: mysql
@@ -47,8 +47,6 @@ spec:
     storage: 1Gi
   accessModes:
     - ReadWriteOnce
-  hostPath:
-    path: "/your/path/on/host"
 
 ---
 apiVersion: v1
