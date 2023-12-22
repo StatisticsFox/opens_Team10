@@ -9,7 +9,7 @@
     <span><img src="https://img.shields.io/badge/Visual studio code-282C34?logo=visualstudiocode&logoColor=2496ED" alt="visualstudiocode logo" title="visualstudiocode" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/MacOs-282C34?logo=macos&logoColor=000000" alt="macos logo" title="macos" height="25" /></span>&nbsp;
-    <span><img src="https://img.shields.io/badge/Windows 10-282C34?logo=windows11&logoColor=0078D6" alt="windows11 logo" title="windows11" height="25" /></span>&nbsp;
+    <span><img src="https://img.shields.io/badge/Windows 11-282C34?logo=windows11&logoColor=0078D6" alt="windows11 logo" title="windows11" height="25" /></span>&nbsp;
     <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>&nbsp;
   </div>
     
